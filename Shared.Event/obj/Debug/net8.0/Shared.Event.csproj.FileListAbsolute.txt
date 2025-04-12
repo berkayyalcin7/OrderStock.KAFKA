@@ -1,0 +1,12 @@
+C:\Users\BERKAY\Desktop\PROJECTS\APACHE KAFKA\Shared.Event\bin\Debug\net8.0\Shared.Event.deps.json
+C:\Users\BERKAY\Desktop\PROJECTS\APACHE KAFKA\Shared.Event\bin\Debug\net8.0\Shared.Event.dll
+C:\Users\BERKAY\Desktop\PROJECTS\APACHE KAFKA\Shared.Event\bin\Debug\net8.0\Shared.Event.pdb
+C:\Users\BERKAY\Desktop\PROJECTS\APACHE KAFKA\Shared.Event\obj\Debug\net8.0\Shared.Event.csproj.AssemblyReference.cache
+C:\Users\BERKAY\Desktop\PROJECTS\APACHE KAFKA\Shared.Event\obj\Debug\net8.0\Shared.Event.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BERKAY\Desktop\PROJECTS\APACHE KAFKA\Shared.Event\obj\Debug\net8.0\Shared.Event.AssemblyInfoInputs.cache
+C:\Users\BERKAY\Desktop\PROJECTS\APACHE KAFKA\Shared.Event\obj\Debug\net8.0\Shared.Event.AssemblyInfo.cs
+C:\Users\BERKAY\Desktop\PROJECTS\APACHE KAFKA\Shared.Event\obj\Debug\net8.0\Shared.Event.csproj.CoreCompileInputs.cache
+C:\Users\BERKAY\Desktop\PROJECTS\APACHE KAFKA\Shared.Event\obj\Debug\net8.0\Shared.Event.dll
+C:\Users\BERKAY\Desktop\PROJECTS\APACHE KAFKA\Shared.Event\obj\Debug\net8.0\refint\Shared.Event.dll
+C:\Users\BERKAY\Desktop\PROJECTS\APACHE KAFKA\Shared.Event\obj\Debug\net8.0\Shared.Event.pdb
+C:\Users\BERKAY\Desktop\PROJECTS\APACHE KAFKA\Shared.Event\obj\Debug\net8.0\ref\Shared.Event.dll
